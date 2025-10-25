@@ -21,7 +21,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/villainmusic77 7/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.github.com/netizen-0 7/count.svg" />
 </p>
 
 
