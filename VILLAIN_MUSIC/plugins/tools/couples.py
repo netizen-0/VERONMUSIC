@@ -14,8 +14,8 @@ from VILLAIN_MUSIC.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈",
-            url=f"https://t.me/iamakki001",
+            text="𝐕ᴇʀᴏɴ • ꭗ‌ • 𝐀ℓσɴє ❰ #𝐓𝐅Ꮗ ❱",
+            url=f"https://t.me/tfw_founder",
         ),
     ],
 ]
