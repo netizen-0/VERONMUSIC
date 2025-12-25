@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","MeDevu")
+OWNER_USERNAME = getenv("OWNER_USERNAME","its_trader00")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","VERONxMUSIC_BOT ")
+BOT_USERNAME = getenv("BOT_USERNAME","ChahatMusic_Bot ")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002485775078"))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "7538572906"))
+OWNER_ID = int(getenv("OWNER_ID", "7989026178"))
 
 
 # make your bots privacy from telegra.ph and put your url here 
@@ -44,15 +44,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/netizen-0/VERONMUSIC",
+    "https://github.com/netizen-0/CHAHATMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BotzEmpire")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Yaaro_kimehfill")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+JSdMiGQsJbo0MmQ1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+C6eOTRzLTno1YzU9")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
