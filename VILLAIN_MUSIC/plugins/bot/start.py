@@ -29,12 +29,10 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://files.catbox.moe/l7vhsf.mp4" ,
-"https://files.catbox.moe/xnaqyk.mp4" ,
-"https://files.catbox.moe/uk0367.mp4" ,
-"https://files.catbox.moe/a22qf2.mp4" , 
-"https://files.catbox.moe/k8xtpq.mp4" ,
-"https://files.catbox.moe/1hvqjp.mp4" ,
+"https://files.catbox.moe/ilhfe1.mp4" ,
+"https://files.catbox.moe/ahac2k.mp4" ,
+"https://files.catbox.moe/vn9643.mp4" ,
+"https://files.catbox.moe/6n44rn.mp4" ,
 ]
 
 
