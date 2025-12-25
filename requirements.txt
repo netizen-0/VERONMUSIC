@@ -1,7 +1,7 @@
 aiofiles
 aiohttp
 asyncio
-
+yt-dlp==2025.10.22
 beautifulsoup4
 dnspython
 ffmpeg-python
