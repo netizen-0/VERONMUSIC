@@ -1,48 +1,54 @@
+# Async / Core
 aiofiles
 aiohttp
-asyncio
-yt-dlp
-beautifulsoup4
-dnspython
-ffmpeg-python
-future==0.18.3
-
-gitpython
 httpx[http2]
-heroku3
+
+# Media & Downloading
+yt-dlp
+ffmpeg-python
 hachoir
-
-motor==3.3.2
 pillow==9.5.0
-psutil
-
-py-tgcalls==0.9.7
-pykeyboard
-pymongo==4.6.3
-
-python-dotenv
-pyyaml==6.0.1
-requests
 qrcode
+bing_image_downloader
+wget
 
-SafoneAPI==1.0.65
-tgcrypto
-gpytranslate
-MukeshAPI
-
+# Parsing / Scraping
+beautifulsoup4
+cloudscraper
 googlesearch-python
 youtube-search-python
 telegraph
-spotipy
-speedtest-cli
 unidecode
 urllib3
-wget
-bing_image_downloader
-Cloudscraper
+requests
 
+# Telegram
+tgcrypto
 telethon==1.33.1
+py-tgcalls==0.9.7
+pykeyboard
 
-git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e9639edb1a
-git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/joetats/youtube_search@master
+# Database
+pymongo==4.6.3
+motor==3.3.2
+dnspython
+
+# System / Utils
+psutil
+python-dotenv
+pyyaml==6.0.1
+future==0.18.3
+speedtest-cli
+
+# APIs
+SafoneAPI==1.0.65
+MukeshAPI
+gpytranslate
+spotipy
+heroku3
+
+# Git
+gitpython
+
+# Pyrogram (custom build)
+git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e
