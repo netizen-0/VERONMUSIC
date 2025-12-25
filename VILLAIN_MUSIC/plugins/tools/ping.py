@@ -15,7 +15,7 @@ import asyncio
 @language
 async def ping_com(client, message: Message, _):
     response = await message.reply_photo(
-        photo=PING_IMG_URL,
+        photo= "https://files.catbox.moe/jk10gh.jpg" ,
         caption=_["ping_1"].format(app.mention),
     )
     start = datetime.now()
