@@ -49,6 +49,6 @@ heroku3
 
 # Git
 gitpython
-
+git+https://github.com/joetats/youtube_search@master
 # Pyrogram (custom build)
 git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e
